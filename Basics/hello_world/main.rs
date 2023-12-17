@@ -1,5 +1,5 @@
 /**
- Hello-World
+ hello_world
  @file main.rs
  @author Kaushal Patel
 */
